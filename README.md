@@ -1,6 +1,6 @@
 Olá!!!
-Meu nome é Renan Ribeiro Duarte Barbosa
-RA - 00000849040
+Meu nome é Renan Ribeiro Duarte Barbosa /n
+RA - 00000849040 /n
 Requisitos mínimos apresentados para a criação do jogo de palavras foram:  
 
 · Selecionar uma palavra aleatória de uma lista predefinida. 
