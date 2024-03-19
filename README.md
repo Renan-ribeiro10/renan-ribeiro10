@@ -1,16 +1,18 @@
-### Hi there 👋
+Olá!!!
+Meu nome é Renan Ribeiro Duarte Barbosa
+RA - 00000849040
+Requisitos mínimos apresentados para a criação do jogo de palavras foram:  
 
-<!--
-**Renan-ribeiro10/renan-ribeiro10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+· Selecionar uma palavra aleatória de uma lista predefinida. 
 
-Here are some ideas to get you started:
+· Permitir ao jogador inserir letras para adivinhar a palavra. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+· Controlar o número de tentativas permitidas. 
+
+· Ao finalizar aparecer se o jogador venceu ou perdeu 
+
+ 
+
+requisitos adicionais: 
+
+· O jogador poderá escolher entre duas categorias de palavras (frutas ou animais) 
